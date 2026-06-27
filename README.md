@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Streamlit-Dark.svg" width="60" alt="Streamlit Logo"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60" alt="Python Logo" />
   <h1>🤖 Local LLM-Based Multimodal AI Chatbot</h1>
 
   <p>
