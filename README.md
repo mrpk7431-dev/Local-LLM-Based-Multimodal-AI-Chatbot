@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local AI ChatBot
 
 A production-quality, local ChatGPT-like application built with Streamlit and Ollama.
@@ -34,3 +35,7 @@ The application will open in your default web browser (usually at `http://localh
 
 ## Architecture Prep
 The application includes placeholder components for file and image uploads in the sidebar settings, ready for future implementation.
+=======
+# Local-LLM-Based-Multimodal-AI-Chatbot
+Local LLM-Based Multimodal AI Chatbot that enables offline conversational AI with document and image understanding. Built using locally deployed language models for private, efficient, and context-aware interaction.
+>>>>>>> 30bf029172a4b8a01f9beca80c4b7ee1b456071c
