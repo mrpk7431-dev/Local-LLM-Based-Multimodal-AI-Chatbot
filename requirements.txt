@@ -1,0 +1,5 @@
+streamlit>=1.43.0
+requests==2.32.3
+ollama==0.2.1
+pypdf==4.2.0
+python-docx==1.1.2
